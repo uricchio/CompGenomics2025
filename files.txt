@@ -1,0 +1,5 @@
+/Users/uricchio/.local/lib/python3.8/site-packages/simConservation/__init__.py
+/Users/uricchio/.local/lib/python3.8/site-packages/simConservation/simTraj.py
+/Users/uricchio/.local/lib/python3.8/site-packages/simConservation/__pycache__/__init__.cpython-38.pyc
+/Users/uricchio/.local/lib/python3.8/site-packages/simConservation/__pycache__/simTraj.cpython-38.pyc
+/Users/uricchio/.local/lib/python3.8/site-packages/UNKNOWN-0.0-py3.8.egg-info
