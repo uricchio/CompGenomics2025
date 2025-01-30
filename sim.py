@@ -4,7 +4,7 @@ from  simConservation import simTraj
 import numpy as np 
      
 newConsObj = simTraj.SimulateConservation()
-newConsObj.simDrift()
+newConsObj.simSel()
 
 plt.plot(np.arange(0,len(newConsObj.alleleTraj)), newConsObj.alleleTraj)
 plt.show()
